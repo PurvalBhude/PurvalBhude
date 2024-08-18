@@ -73,7 +73,7 @@
 
 ###
 
-<img src="https://github.com/PurvalBhude/PurvalBhude/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/purvalbhude/purvalbhude/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -83,5 +83,3 @@
 </div>
 
 ###
-
-Made with ❤️ by Purval Bhude. For more about me and my work, visit my <a href="https://purvalbhude.github.io/Portfolio-Website/">Portfolio</a> or <a href="www.linkedin.com/in/purvalbhude">LinkedIn</a>.
