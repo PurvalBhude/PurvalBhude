@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Purval Bhude and I'm a passionate Computer Science student at IIIT Sricity with a keen interest in machine learning, data science, and software development.</p>
+<p align="left">I'm [Purval Bhude](https://purvalbhude.github.io/Portfolio-Website/) and I'm a passionate Computer Science student at IIIT Sricity with a keen interest in machine learning, data science, and software development.</p>
 
 ###
 
